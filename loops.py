@@ -9,7 +9,7 @@
 #     elif x % y == 0:
 #        break_loop= True
 
-x = 12
+pizdatimaterna = 1300000
 
-for i in range (0, 12):
+for i in range (0, pizdatimaterna):
     print(i)
